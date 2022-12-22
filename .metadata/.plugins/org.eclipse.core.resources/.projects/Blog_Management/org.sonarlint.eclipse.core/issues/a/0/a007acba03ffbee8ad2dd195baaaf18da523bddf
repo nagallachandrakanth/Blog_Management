@@ -1,0 +1,61 @@
+
+s	java:S125a"<This block of commented-out lines of code should be removed.(»‡Â¼úÿÿÿÿ8¼ĞÏÉÓ0HåRMAJORZ
+CODE_SMELL
+[
+java:S1066@"/Merge this if statement with the enclosing one.(ô‘×§HäRMAJORZ
+CODE_SMELL
+j
+java:S3655M"9Call "userFromDb.isPresent()" before accessing the value.(ìÓ¥üÿÿÿÿ8¼ĞÏÉÓ0HãRMAJORZBUG
+o
+java:S1128"<Remove this unused import 'com.google.common.base.Function'.(ÓÉ·ü8ÍÂõÎÓ0H¥RMINORZ
+CODE_SMELL
+u
+java:S1128"=Remove this unused import 'com.te.blogmanagement.dto.TagDto'.(ÊÇ—®şÿÿÿÿ8ÍÂõÎÓ0H­RMINORZ
+CODE_SMELL
+Y
+java:S3655"3Call "user.isPresent()" before accessing the value.(ÅËHíRMAJORZBUG
+x
+java:S1128"ERemove this unused import 'com.te.blogmanagement.dto.PostCommentDto'.(´ ’ˆ8ÍÂõÎÓ0H©RMINORZ
+CODE_SMELL
+Œ
+java:S2293p"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ü€Ñƒ8 ¯’ÏÓ0HáRMINORZ
+CODE_SMELL
+t	java:S125‡"<This block of commented-out lines of code should be removed.(‘¦’ãşÿÿÿÿ8Áö–ËÓ0H‘RMAJORZ
+CODE_SMELL
+z
+java:S1128"BRemove this unused import 'com.te.blogmanagement.dto.CategoryDto'.(´Î¿Òüÿÿÿÿ8ÍÂõÎÓ0H§RMINORZ
+CODE_SMELL
+t	java:S125®"<This block of commented-out lines of code should be removed.(´œş–ÿÿÿÿÿ8ÈüïËÓ0H¥RMAJORZ
+CODE_SMELL
+}
+java:S1128"ERemove this unused import 'com.te.blogmanagement.entity.PostComment'.(Ï£ßÛøÿÿÿÿ8ÍÂõÎÓ0H±RMINORZ
+CODE_SMELL
+{
+java:S1128	"HRemove this unused import 'org.springframework.context.annotation.Bean'.(‚î‰Ş8ÍÂõÎÓ0H£RMINORZ
+CODE_SMELL
+u
+java:S1128"BRemove this unused import 'com.te.blogmanagement.dto.PostMetaDto'.(”ğÊÂ8ÍÂõÎÓ0H«RMINORZ
+CODE_SMELL
+t
+java:S1128"BRemove this unused import 'com.te.blogmanagement.entity.PostMeta'.(¡è¬R8ÍÂõÎÓ0H³RMINORZ
+CODE_SMELL
+p
+java:S1128"=Remove this unused import 'com.te.blogmanagement.entity.Tag'.(³ÖŒÉ8ÍÂõÎÓ0HµRMINORZ
+CODE_SMELL
+t	java:S125¥"<This block of commented-out lines of code should be removed.(†îğ¡ÿÿÿÿÿ8³©õËÓ0HÜRMAJORZ
+CODE_SMELL
+’
+java:S2293€"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ñ°ş‰ùÿÿÿÿ8ì‚æÊÓ0HÒRMINORZ
+CODE_SMELL
+o
+java:S2589N"7Remove this expression which always evaluates to "true"(‚‘İ‡üÿÿÿÿ8¼ĞÏÉÓ0HäRMAJORZ
+CODE_SMELL
+z
+java:S1128"BRemove this unused import 'com.te.blogmanagement.entity.Category'.(Á›¦İúÿÿÿÿ8ÍÂõÎÓ0H¯RMINORZ
+CODE_SMELL
+v
+java:S1854É"BRemove this useless assignment to local variable "postDataFromDb".(Š§ªó8úàìÏÓ0HøRMAJORZ
+CODE_SMELL
+g
+java:S1481É"3Remove this unused "postDataFromDb" local variable.(Š§ªó8úàìÏÓ0HùRMINORZ
+CODE_SMELL

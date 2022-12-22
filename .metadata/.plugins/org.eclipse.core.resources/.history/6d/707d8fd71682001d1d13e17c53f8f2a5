@@ -1,0 +1,5 @@
+package com.te.blogmanagement.entity;
+
+public class StringPrefixedSequenceIdGenerator {
+
+}

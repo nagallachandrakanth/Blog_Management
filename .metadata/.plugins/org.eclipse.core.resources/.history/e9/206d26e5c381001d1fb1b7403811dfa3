@@ -1,0 +1,17 @@
+package com.te.blogmanagement.service;
+
+import java.util.Optional;
+
+import com.te.blogmanagement.dto.LoginDto;
+import com.te.blogmanagement.dto.PostDto;
+import com.te.blogmanagement.dto.UserDto;
+
+public interface BmService {
+
+	Optional<UserDto> registration(UserDto userDto);
+
+	void postRegistration(Integer id, PostDto postDto);
+
+	Boolean login(LoginDto loginDto);
+
+}

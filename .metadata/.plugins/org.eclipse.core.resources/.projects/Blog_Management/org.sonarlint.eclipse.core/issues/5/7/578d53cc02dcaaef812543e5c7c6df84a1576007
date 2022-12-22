@@ -1,0 +1,16 @@
+
+c
+java:S1128"7Remove this unused import 'javax.persistence.OneToOne'.(Ø½ïâH¸RMINORZ
+CODE_SMELL
+…
+java:S2293?"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ä·ıµH¶RMINORZ
+CODE_SMELL
+…
+java:S2293<"YReplace the type specification in this constructor call with the diamond operator ("<>").(ùˆÆH´RMINORZ
+CODE_SMELL
+…
+java:S22939"YReplace the type specification in this constructor call with the diamond operator ("<>").(¼Í•ØH²RMINORZ
+CODE_SMELL
+Š
+java:S22936"YReplace the type specification in this constructor call with the diamond operator ("<>").(¦»÷èşÿÿÿÿH°RMINORZ
+CODE_SMELL

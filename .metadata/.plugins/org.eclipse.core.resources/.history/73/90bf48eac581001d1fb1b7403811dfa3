@@ -1,0 +1,8 @@
+package com.te.blogmanagement;
+
+public class Snippet {
+	public static void main(String[] args) {
+			return ResponseEntity.ok().body(ApiResponse.builder().message("Update User Successfull").build());
+	}
+}
+
